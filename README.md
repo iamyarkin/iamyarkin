@@ -1,10 +1,10 @@
-<h3 align="center">Hello there, I'm NotYarkin 👋</h3>
+<h3 align="center">Hello there, I'm Yarkin 👋</h3>
 <h5 align="center">
   <code><a href="https://www.instagram.com/yarkin.jpg/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm NotYarkin, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Yarkin, Computer Engineer & Software Developer from Turkey
   <br>
   <br>
   💻 I love writing code and learn anythings about it
@@ -38,9 +38,9 @@
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=NotYarkin&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=iamyarkin&show_icons=true&theme=gotham">
 </p>
 
 <hr>
 <br>
-<h4 align="center"><a href=https://github.com/NotYarkin?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/iamyarkin?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
