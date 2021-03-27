@@ -12,8 +12,6 @@
   📚 I’m currently learning TypeScript
   <br>
   💬 Ask me anything about from <a href="/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: ###########">#######</a>
 </p>
 
 <hr>
