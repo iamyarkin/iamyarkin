@@ -43,4 +43,4 @@
 
 <hr>
 <br>
-<h4 align="center"><a href=https://github.com/iamyarkin?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/iamyarkin?tab=repositories title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
