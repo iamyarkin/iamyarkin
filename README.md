@@ -4,7 +4,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Yarkin, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Yarkin, Computer Engineer & Software Developer
   <br>
   <br>
   💻 I love writing code and learn anythings about it
