@@ -1,1 +1,1 @@
-<h1>LOL</h1>
+<h1 style="text-align:center;">LOL</h1>
